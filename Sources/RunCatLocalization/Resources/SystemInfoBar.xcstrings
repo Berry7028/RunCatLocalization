@@ -273,6 +273,40 @@
         }
       }
     },
+    "showGPUMemoryPerformance" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show GPU Memory Performance"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher l'utilisation de la mémoire GPU"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GPUメモリ性能を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GPU 메모리 성능 보기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示GPU内存性能"
+          }
+        }
+      }
+    },
     "showNetworkSpeed" : {
       "localizations" : {
         "en" : {
